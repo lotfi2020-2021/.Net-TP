@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ylygh2WrO6Hu/kqLeUDsIaQWP7vgj/S9sGDvUm+FAYQVYKgG7hAKGZlOx/bpovs492IlNZwFDxfCzvsG4WBrfw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\asus\\source\\repos\\ProductStore-22-04-4se2\\ProductStore\\Ps.Domain\\Ps.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\asus\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\5.0.11\\microsoft.entityframeworkcore.abstractions.5.0.11.nupkg.sha512"
+  ],
+  "logs": []
+}
